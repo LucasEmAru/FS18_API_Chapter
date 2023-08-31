@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChapterFST2.props" />
+</Project>
